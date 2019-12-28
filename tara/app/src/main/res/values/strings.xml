@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TARA</string>
+
+    <string name="facebook_app_id">1419064204919387</string>
+    <string name="fb_login_protocol_scheme">fb1419064204919387</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="pref_file">com.btlbd.preference_file</string>
+    <string name="pref_customer_login_status">com.btlbd.preference_customer_status</string>
+    <string name="pref_merchant_login_status">com.btlbd.preference_merchant_status</string>
+    <string name="pref_user_name">com.btlbd.preference_user_name</string>
+    <string name="pref_user_number">com.btlbd.preference_user_number</string>
+    <string name="pref_user_email">com.btlbd.preference_user_email</string>
+    <string name="pref_user_address">com.btlbd.preference_user_address</string>
+
+    <string name="pref_user_profile_url">com.btlbd.preference_user_profile_url</string>
+
+    <string name="see_all"><u>S e e  a l l</u></string>
+
+</resources>

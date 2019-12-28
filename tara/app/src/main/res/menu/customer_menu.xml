@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_person"
+        android:id="@+id/cProfileId"
+        android:title="My Profile" />
+
+    <item
+        android:icon="@drawable/ic_online_store_cart"
+        android:id="@+id/cOrderId"
+        android:iconTint="@color/black"
+        android:title="My Order" />
+
+    <item
+        android:icon="@drawable/ic_collections"
+        android:id="@+id/cFavId"
+        android:iconTint="@color/black"
+        android:title="My Collections" />
+
+    <item
+        android:icon="@drawable/ic_power_settings"
+        android:id="@+id/clogoutId"
+        android:title="Log Out"/>
+
+</menu>

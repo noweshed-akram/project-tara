@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/ic_person"
+        android:id="@+id/oProfileId"
+        android:title="My Profile" />
+
+<!--    <item-->
+<!--        android:id="@+id/oliveId"-->
+<!--        android:icon="@drawable/ic_live"-->
+<!--        android:title="Add Live Video" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/oArchivId"-->
+<!--        android:icon="@drawable/ic_archive"-->
+<!--        android:title="Add Archive Video" />-->
+
+    <item
+        android:id="@+id/oProductId"
+        android:icon="@drawable/ic_playlist_add"
+        android:title="Add Product" />
+
+    <item
+        android:id="@+id/oOrderId"
+        android:icon="@drawable/ic_report"
+        android:title="Order Report" />
+
+    <item
+        android:id="@+id/oLogoutId"
+        android:icon="@drawable/ic_power_settings"
+        android:title="Log Out"/>
+
+</menu>

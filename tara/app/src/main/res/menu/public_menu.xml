@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pliveId"
+        android:icon="@drawable/ic_live"
+        android:title="Live Video" />
+
+    <item
+        android:id="@+id/pArchiveId"
+        android:icon="@drawable/ic_subscriptions_black_24dp"
+        android:title="Archive Video" />
+
+    <item
+        android:id="@+id/pCategoryId"
+        android:icon="@drawable/ic_category"
+        android:title="Category" />
+
+    <item
+        android:id="@+id/pProductId"
+        android:icon="@drawable/ic_products"
+        android:title="Products" />
+
+    <item
+        android:id="@+id/pStoreId"
+        android:icon="@drawable/ic_store"
+        android:title="Store" />
+
+    <item
+        android:id="@+id/pLoginId"
+        android:icon="@drawable/ic_person"
+        android:title="Log In" />
+
+</menu>
